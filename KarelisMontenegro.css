@@ -1,0 +1,126 @@
+*{margin:0%; padding: 0%;
+
+}
+
+
+body{ 
+    background-color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    width: 750px;
+    height: 750px;
+  
+}
+
+header{ 
+    background-color: aqua;
+        background-size: 100px 100px;
+    background-position: right;
+ 
+    display: flex;
+    background-position: center;
+    font-style: oblique; color: azure;
+    border: 15px solid red;
+    text-align: center;
+    line-height: 60%;
+    font-size: 15px;
+     width: 750px;
+    height: 250px;
+    float: left;
+    
+
+}
+
+
+nav{
+    background-position: right; 
+    color:green; 
+    font-size-adjust: initial;
+    line-height: 15px;
+    border-style: dashed;
+    text-align: center;
+    background-color: violet;
+    display: flex;
+     width: 750px;
+    height: 50px;
+
+}
+main{
+    width: 750px;
+    height: 400px;
+    background-color: chocolate;
+    }
+
+
+article.texto{
+    background-size: 100px 100px;
+    background-color: crimson;
+    text-align: justify;
+    font-style: url("https://fonts.googleapis.com")
+    ;
+     border: 5px solid red;
+    display: flex;
+    float: left;
+    width: 750px;
+    height: 200px;
+
+}
+
+    
+
+ article.texto2{
+    background-color: slateblue;
+    background-size: 500px 250px;
+    font:white; font-size: 10px;
+    text-align: justify;
+    border: 5px solid blue;    
+    float: left;
+    display: flex;
+     float: left;
+     width: 400px;
+    height: 180px;
+
+  }
+
+
+  aside{
+    float: left;
+    background-color: lightsalmon;
+    background-size: 100px 100px;
+    background-position-x: bottom;
+    display: flex;
+   
+    width: 250px;
+    height: 180px;
+
+    min-height: 70px;
+
+    font-style: oblique; color: azure;
+    border: 5px solid blue;
+    text-align:justify;
+    line-height: 10%;
+    font-size: 10px;
+     float: right;
+    
+
+  
+  }
+
+  div.footer{
+
+    background-size: 100px 100px;
+    background-color: grey;
+    
+    background-position:
+    display: flex;
+    font:bold; font-size: 20px;
+    width: 750px;
+    height: 50px;
+    justify-content:after;
+    text-align: center;
+    line-height: 80%;
+
+   
+    
+
+  }
